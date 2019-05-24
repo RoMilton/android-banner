@@ -1,0 +1,39 @@
+{
+    "name": "Latitude",
+    "short_name": "Latitude Financial Services",
+    "icons": [
+      {
+        "src": "assets/icons/mobile-app/app_icon_36px.png",
+        "sizes": "36x36",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/icons/mobile-app/app_icon_72px.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/icons/mobile-app/app_icon_144px.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/icons/mobile-app/app_icon_192px.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/icons/mobile-app/app_icon_512px.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "prefer_related_applications": true,
+    "related_applications": [
+      {
+        "platform": "play",
+        "id": "com.latitudefinancial.latitudeapp"
+      }
+    ]
+  }
+  
